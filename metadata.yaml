@@ -1,11 +1,16 @@
 _repo: The-Evening-Post-A-Century-of-Journalism_59857
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59857-h/images/cover.jpg
 creator:
   author:
     agent_name: Nevins, (Joseph) Allan
     gutenberg_agent_id: '50661'
     url: http://www.gutenberg.org/2009/agents/50661
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59857#The-Evening-Post-A-Century-of-Journalism
 gutenberg_issued: '2019-07-05'
 gutenberg_type: Text
 identifiers:
